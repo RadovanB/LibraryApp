@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\SMART WEB ART\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\SMART WEB ART\\.nuget\\packages"
+    ]
+  }
+}
